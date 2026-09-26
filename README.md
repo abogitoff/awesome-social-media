@@ -29,6 +29,7 @@
 - [Buffer](https://buffer.com) - Plan, create, and schedule content for social media.
 - [Sprout Social](https://sproutsocial.com) - Social media management and analytics platform.
 - [Later](https://later.com) - Visual social media planner and scheduler.
+- [Fuxux](https://www.fuxux.com) - Schedule posts to 12 social networks with AI captions tailored to each platform.
 - [TweetDeck](https://tweetdeck.twitter.com) - Monitor and manage Twitter activity with customizable columns.
 
 ## Content Creation
